@@ -37,3 +37,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* In App.css */
+body {
+  background-color: #6e6e6e; /* light gray */
+  font-family: Arial, sans-serif; /* Optional: set a default font */
+}
+
